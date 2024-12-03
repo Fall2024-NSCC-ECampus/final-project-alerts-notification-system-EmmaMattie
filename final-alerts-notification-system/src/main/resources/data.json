@@ -1,0 +1,81 @@
+{
+  "persons": [
+    {
+      "firstName": "Dylan",
+      "lastName": "Woo-Kong",
+      "address": "123 Maple Street",
+      "city": "Riverdale",
+      "phone": "555-1001",
+      "email": "dylankong@example.com",
+      "age": 34,
+      "medications": ["paracetamol:500mg"],
+      "allergies": ["peanuts"]
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "address": "456 Oak Avenue",
+      "city": "Greendale",
+      "phone": "555-1002",
+      "email": "jane.smith@example.com",
+      "age": 29,
+      "medications": ["ibuprofen:200mg"],
+      "allergies": ["dust"]
+    },
+    {
+      "firstName": "Alex",
+      "lastName": "Taylor",
+      "address": "789 Pine Road",
+      "city": "Lakeside",
+      "phone": "555-1003",
+      "email": "alex.taylor@example.com",
+      "age": 22,
+      "medications": [],
+      "allergies": ["peanut"]
+    },
+    {
+      "firstName": "Emily",
+      "lastName": "Johnson",
+      "address": "101 Birch Lane",
+      "city": "Hillcrest",
+      "phone": "555-1004",
+      "email": "emily.johnson@example.com",
+      "age": 40,
+      "medications": ["metformin:500mg"],
+      "allergies": ["none"]
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Brown",
+      "address": "202 Cedar Drive",
+      "city": "Springfield",
+      "phone": "555-1005",
+      "email": "michael.brown@example.com",
+      "age": 14,
+      "medications": ["amlodipine:10mg"],
+      "allergies": ["latex"]
+    }
+  ],
+  "firestations": [
+    {
+      "address": "123 Maple Street",
+      "station": 1
+    },
+    {
+      "address": "456 Oak Avenue",
+      "station": 2
+    },
+    {
+      "address": "789 Pine Road",
+      "station": 3
+    },
+    {
+      "address": "101 Birch Lane",
+      "station": 4
+    },
+    {
+      "address": "202 Cedar Drive",
+      "station": 5
+    }
+  ]
+}
