@@ -4,29 +4,6 @@
 
 ---
 
-## Table of Contents
-
-1. [Overview](#overview)
-2. [Features](#features)
-3. [System Architecture](#system-architecture)
-4. [Technology Stack](#technology-stack)
-5. [Setup and Installation](#setup-and-installation)
-6. [How to Run](#how-to-run)
-7. [API Documentation](#api-documentation)
-   - [Retrieve People by Fire Station](#retrieve-people-by-fire-station)
-   - [Child Residence Alert](#child-residence-alert)
-   - [Emergency Contact Numbers](#emergency-contact-numbers)
-   - [Fire Incident Details](#fire-incident-details)
-   - [Flood Readiness Alerts](#flood-readiness-alerts)
-   - [Detailed Personal Information](#detailed-personal-information)
-   - [Citywide Email Directory](#citywide-email-directory)
-8. [Testing](#testing)
-9. [Logging](#logging)
-10. [Contributions](#contributions)
-11. [License](#license)
-
----
-
 ## Overview
 
 **SafetyNet Alerts** streamlines access to critical safety information, providing users with a suite of tools to manage fire station data, generate alerts, and enhance community preparedness.
