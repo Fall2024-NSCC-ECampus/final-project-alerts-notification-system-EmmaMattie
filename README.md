@@ -32,22 +32,12 @@ SafetyNet Alerts employs a **Model-View-Controller (MVC)** architecture:
 
 ## Technology Stack
 
-- **Programming Language**: Java 17
+- **Programming Language**: Java 21
 - **Frameworks**: 
   - Spring Boot
   - Spring Web
   - Spring Data JPA
-- **Database**: H2 Database (configurable for other relational databases)
 - **Build Tool**: Maven
-- **Testing**: JUnit and Mockito
-- **Logging**: SLF4J with Logback
+- **Logging**: Logback
 
 ---
-
-## Setup and Installation
-
-1. Clone the project repository:
-
-   ```bash
-   git clone https://github.com/Fall2024-NSCC-ECampus/final-project-alerts-notification-system-w0140158.git
-   cd final-project-alerts-notification-system-w0140158
