@@ -4,12 +4,6 @@
 
 ---
 
-## Overview
-
-**SafetyNet Alerts** streamlines access to critical safety information, providing users with a suite of tools to manage fire station data, generate alerts, and enhance community preparedness.
-
----
-
 ## Features
 
 - **Fire Station Coverage**: Fetch a list of individuals served by specified fire stations.
